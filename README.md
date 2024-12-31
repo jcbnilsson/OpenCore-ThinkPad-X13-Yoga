@@ -1,7 +1,7 @@
-# OC-ThinkPad-X13-Yoga
+# OpenCore-ThinkPad-X13-Yoga
 
 OpenCore EFI for the ThinkPad X13 Yoga.
-Supports macOS 14.4 Sonoma. Sequoia, older versions of Sonoma and
+Supports macOS 14.5 Sonoma. Sequoia, older versions of Sonoma and
 Ventura also run if AirportItlwm.kext is replaced.
 
 ## Note
@@ -15,7 +15,7 @@ using.
 - CPU: Intel Core i7 10510U
 - GPU: Intel UHD 620 Graphics
 - RAM: 16GB DDR4 2666MHz
-- OS: macOS 14.4 Sonoma
+- OS: macOS 14.5 Sonoma
 
 ## Works
 
