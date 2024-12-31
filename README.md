@@ -15,7 +15,7 @@ using.
 - CPU: Intel Core i7 10510U
 - GPU: Intel UHD 620 Graphics
 - RAM: 16GB DDR4 2666MHz
-- OS: macOS 15 Sonoma
+- OS: macOS 14.4 Sonoma
 
 ## Works
 
